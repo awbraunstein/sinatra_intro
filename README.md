@@ -86,4 +86,7 @@ end
 * Using a logger to see output of your program
 * Good for debugging
 
+## Heroku
 
+* It just works
+* git push to heroku
