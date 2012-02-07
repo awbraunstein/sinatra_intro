@@ -71,6 +71,11 @@ end
   * erb
 * Inline code or separate views
 
+## Database
+
+* Use ActiveRecord (rails orm) or dattamapper(lightweight)
+* Sql-like querys
+
 # Deploy
 
 ## Rack
